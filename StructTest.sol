@@ -21,5 +21,4 @@ contract StructTest {
         return p2;
     }
     
-    
 }
